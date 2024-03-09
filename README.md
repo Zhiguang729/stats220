@@ -14,4 +14,4 @@ The **languages** I will be using are:
 2. Assessed as part of the course
 
 ## Links
-This is a link to this repo: [My GitHub Repository](https://github.com/Zhiguang729/stats220)
+This is a link to this ChatGPT: [ChatGPT](https://chat.openai.com)
